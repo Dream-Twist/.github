@@ -1,8 +1,7 @@
 # :bug:  꿈틀 DreamTwist
-AI 기반 맞춤형 동화 제작 플랫폼 **꿈틀**
-<br/>
+### AI 기반 맞춤형 동화 제작 플랫폼 꿈틀
 세상에 하나뿐인 동화, 꿈틀에서 마음껏 즐겨보세요!
-<br/><br/>
+
 <img width="700" height="400" src="https://github.com/user-attachments/assets/60565221-fa84-420f-a0e3-a62d46d9e8fd"> 
 
 <br/>
@@ -22,7 +21,7 @@ AI 기반 맞춤형 동화 제작 플랫폼 **꿈틀**
 ## :busts_in_silhouette: 팀원
 | 이름 | 담당 업무 |
 | :-------:| :--------------: |
-| 박수정 | 팀장/백엔드 개발/동화 스토리 직접 생성/금지어 크롤링 및 설정/동화 이미지 업로드/회원 기능/|
+| 박수정 | 팀장/백엔드 개발/동화 스토리 직접 생성/금지어 크롤링 및 설정/동화 이미지 업로드/회원 기능|
 | 강민규 | 백엔드 개발/동화 스토리 조회,수정,삭제/동화 좋아요,동화 조회수/전체 동화 정렬/동화 검색 기능 |
 | 원경혜 | 백엔드 개발/AI 학습/동화 생성 모델 학습 및 api 작성/프롬프트 번역 및 이미지 생성/<br/>이미지 생성 AI api 연동/댓글 생성,조회,수정,삭제 |
 | 이유민 | 백엔드 개발/AI 학습/동화 생성 모델 학습 및 api 작성/주제 및 제목 생성/<br/>동화 생성 AI api 연동/결제 및 포인트 기능/백엔드, AI 배포 |
@@ -79,7 +78,7 @@ AI 기반 맞춤형 동화 제작 플랫폼 **꿈틀**
     </td>
   </tr>
   <tr>
-    <td>협업툴</td>
+    <td>협업</td>
     <td> 
         <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=notion&logoColor=black" /> 
         <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
