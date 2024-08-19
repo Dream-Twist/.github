@@ -95,7 +95,7 @@ AI 기반 맞춤형 동화 제작 플랫폼 **꿈틀**
 - ERD<br/>
 &nbsp;<img src="https://github.com/user-attachments/assets/a718a4bc-a265-435f-9d13-ebf541e35a45" width="600" height="400">
 - API : Swagger <br/>
-&nbsp;<img src="https://github.com/user-attachments/assets/72f1b3e2-1448-4754-85d8-3d0301a18e48" width="400" height="400">
+&nbsp;<img src="https://github.com/user-attachments/assets/72f1b3e2-1448-4754-85d8-3d0301a18e48" width="450" height="400">
 </div>
 
 ## :file_folder: 프로젝트 폴더 구조
