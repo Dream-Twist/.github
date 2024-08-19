@@ -91,11 +91,12 @@ AI 기반 맞춤형 동화 제작 플랫폼 **꿈틀**
 
 - 버전 관리 : [GitLab](https://kdt-gitlab.elice.io/ai_track/class_10/ai_project/team01)
 - 협업 툴 : Discord, [Notion](https://unique-beat-d53.notion.site/Dream-Twist-820c069e91f64940978252e556a03ecb?pvs=4)
-- 디자인 : [Figma](https://www.figma.com/design/EKyJtBhALfgNG5ER5EZ06U/%EA%BF%88%ED%8B%80?node-id=0-1&t=Nob2cdvjKU1JJUqJ-1)
+- 디자인 : [Figma](https://www.figma.com/design/EKyJtBhALfgNG5ER5EZ06U/%EA%BF%88%ED%8B%80?node-id=0-1&t=Nob2cdvjKU1JJUqJ-1)<br/>
+&nbsp;<img src="https://github.com/user-attachments/assets/9ace95f0-695c-42d1-bd4e-bd9d84f9a36e" width="600" height="370">
 - ERD<br/>
 &nbsp;<img src="https://github.com/user-attachments/assets/a718a4bc-a265-435f-9d13-ebf541e35a45" width="600" height="400">
 - API : Swagger <br/>
-&nbsp;<img src="https://github.com/user-attachments/assets/72f1b3e2-1448-4754-85d8-3d0301a18e48" width="450" height="400">
+&nbsp;<img src="https://github.com/user-attachments/assets/188cde46-f887-47dc-a0d6-7f5ac096a498" width="380" height="800">
 </div>
 
 ## :file_folder: 프로젝트 폴더 구조
