@@ -2,32 +2,35 @@
 ### AI 기반 맞춤형 동화 제작 플랫폼 꿈틀
 세상에 하나뿐인 동화, 꿈틀에서 마음껏 즐겨보세요!
 
-<img width="700" height="400" src="https://github.com/user-attachments/assets/60565221-fa84-420f-a0e3-a62d46d9e8fd"> 
+<img width="700" height="400" src="https://github.com/user-attachments/assets/60565221-fa84-420f-a0e3-a62d46d9e8fd">
 
+<br/>
 <br/>
 
 ## :bulb: 프로젝트 소개
 - 동화는 아이들의 창의성과 상상력을 키우는 데 중요한 역할을 한다.<br/>
 최근 디지털 시대에 맞춰 온라인 도서 플랫폼의 수요가 증가하면서 다양한 디지털 도서와 동화 콘텐츠가 제공되고 있다.
+
 - 그러나 기존 동화를 단순히 디지털화하는 것보다 사용자 참여형 동화 창작 플랫폼이 더 효과적이라는 결론을 내렸다.<br/>
 이는 아이들과 성인 모두에게 창의적 표현의 기회를 제공하고, 협업을 통한 학습 효과를 높일 수 있기 때문이다.
+
 - 특히, 동화 창작의 질을 높이기 위해 AI 기술의 활용에 주목하였고, AI와 인간의 협업을 통한 동화 창작이 중요하다고 판단하였다.<br/>
 이를 위해 AI 스토리 생성, 이미지 생성 기능이 필요하다고 생각한다.
+
 - 이에 AI 기반 맞춤형 동화 생성 플랫폼인 ‘꿈틀’을 통해 AI 동화 창작 서비스를 제공하여,<br/>
 최종적으로 창의적 동화 창작 문화를 조성하고 디지털 시대의 새로운 문학 경험을 제공하고자 한다.
-
 <br/>
 
 ## :busts_in_silhouette: 팀원
-| 이름 | 담당 업무 |
-| :-------:| :--------------: |
-| 박수정 | 팀장/백엔드 개발/동화 스토리 직접 생성/금지어 크롤링 및 설정/동화 이미지 업로드/회원 기능|
-| 강민규 | 백엔드 개발/동화 스토리 조회,수정,삭제/동화 좋아요,동화 조회수/전체 동화 정렬/동화 검색 기능 |
-| 원경혜 | 백엔드 개발/AI 학습/동화 생성 모델 학습 및 api 작성/프롬프트 번역 및 이미지 생성/<br/>이미지 생성 AI api 연동/댓글 생성,조회,수정,삭제 |
-| 이유민 | 백엔드 개발/AI 학습/동화 생성 모델 학습 및 api 작성/주제 및 제목 생성/<br/>동화 생성 AI api 연동/결제 및 포인트 기능/백엔드, AI 배포 |
-| 임도헌 | 프론트엔드 개발/동화 생성 기능/동화 편집 기능/그림판 기능/프론트엔드 배포 |
-| 나경윤 | 프론트엔드 개발/동화 검색/동화 게시판 및 동화 삭제/회원 기능/댓글 생성,조회,수정,삭제 |
-| 김민규 | 프론트엔드 개발/AI 학습/동화 AI 생성 기능/결제 및 포인트 기능 |
+| 이름 | 개발 파트 | 담당 기능 |
+| :-------: | :-------: | :-------------- |
+| 박수정 | 팀장 / 백엔드 | - 동화 스토리 직접 생성<br/> - 금지어 크롤링 및 설정<br/> - 동화 및 프로필 이미지 업로드<br/> - 구글 소셜 로그인 및 회원 기능|
+| 강민규 | 백엔드 | - 동화 스토리 조회, 수정, 삭제<br/> - 동화 좋아요, 조회수<br/> - 동화 검색 기능 |
+| 원경혜 | 백엔드, AI | - AI 동화 줆거리 생성 모델 학습 및 api 작성<br/> - AI 동화 이미지 생성<br/> - AI 동화 줄거리 생성을 위한 프롬프트 번역<br/> - AI 이미지 생성 api 연동<br/> - 동화책 댓글 생성, 조회, 수정, 삭제 |
+| 이유민 | 백엔드, AI | - AI 동화 줆거리 생성 모델 학습 및 api 작성<br/> - AI 동화 줄거리 기반 주제 및 제목 생성/<br/> - 동화 생성 AI api 연동<br/> - 동화 생성을 위한 결제 및 포인트 기능<br/> - 백엔드, AI 배포 |
+| 임도헌 | 프론트엔드 | - 동화 생성 기능(줄거리, 이미지 파일첨부, 그림판, AI 이미지)<br/> - 동화 편집 기능<br/> - 그림판 기능<br/> - 프론트엔드 배포 |
+| 나경윤 | 프론트엔드 | - 동화 검색<br/> - 동화 게시판 및 동화 삭제<br/> - 회원 기능 및 마이페이지<br/> - 동화책 댓글 생성, 조회, 수정, 삭제 |
+| 김민규 | 프론트엔드 | - AI 동화 및 직접 생성 페이지<br/> - 동화 생성을 위한 결제 및 포인트 기능 |
 
 <br/>
 
@@ -51,8 +54,11 @@
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=TypeORM&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
         <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebPack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -60,6 +66,11 @@
     <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=flat&logo=Hugging Face&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OpenAI&logoColor=white" />
+        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -67,6 +78,7 @@
     <td>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat&logo=amazonrds&logoColor=white" />
+        <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=amazons3&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -83,18 +95,26 @@
         <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=notion&logoColor=black" /> 
         <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=white" /> 
         <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white" />
     </td>
   </tr>
 </table>
 
 - 버전 관리 : [GitLab](https://kdt-gitlab.elice.io/ai_track/class_10/ai_project/team01)
+
 - 협업 툴 : Discord, [Notion](https://unique-beat-d53.notion.site/Dream-Twist-820c069e91f64940978252e556a03ecb?pvs=4)
+
 - 디자인 : [Figma](https://www.figma.com/design/EKyJtBhALfgNG5ER5EZ06U/%EA%BF%88%ED%8B%80?node-id=0-1&t=Nob2cdvjKU1JJUqJ-1)<br/>
+
 &nbsp;<img src="https://github.com/user-attachments/assets/9ace95f0-695c-42d1-bd4e-bd9d84f9a36e" width="600" height="370">
+
 - ERD<br/>
+
 &nbsp;<img src="https://github.com/user-attachments/assets/a718a4bc-a265-435f-9d13-ebf541e35a45" width="600" height="400">
+
 - API : Swagger <br/>
+
 &nbsp;<img src="https://github.com/user-attachments/assets/188cde46-f887-47dc-a0d6-7f5ac096a498" width="380" height="800">
 </div>
 
